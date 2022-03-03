@@ -15,6 +15,8 @@ For more information on what scraping is start [here](https://en.wikipedia.org/w
 
 ### Data destination
 
+
+
 Collected data needs to be stored in a database. Various types of databases can be used for this purpose. Some simple solutions include:
 - Structured text files (CSV, JSON)
 - Spreadsheets (Excel, Google spreadsheet)
